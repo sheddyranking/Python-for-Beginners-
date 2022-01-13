@@ -20,3 +20,5 @@ how str methods/objects are used.
 #operator comparison.
 #logical operators
 
+#added if statements
+
