@@ -1,3 +1,7 @@
+# Biginner
+This is my first python piece of code.
+the App.py is a folder for general python runtrue
+the calculate_age.py and cal_age_min.py are my first projects written defferently 
 #caculate age
 we converted the str(birth_year)  to int so it can be substracted.
 
@@ -10,3 +14,4 @@ datatypes such as str(), int(), bool(), float(). have to  proberly define for co
 
 #str_methods
 how str methods/objects are used.
+
