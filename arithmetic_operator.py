@@ -33,3 +33,16 @@ x= 3>2
 print(x) #return a bool of TRUE 
 
 #we also have <, <=, >=, ==, !=
+
+#logical operators
+
+price = 10
+
+print(price > 5 and price < 30) #returns TRUE
+print(price > 10 or price < 15) #return TRUE
+print(not price > 15) #return TRUE
+
+#and (TRUE when both condition meet else FALSE)
+#or(TRUE if of the conditions meet else FALSE)
+#not(TRUE when TRUE or FALSE when FALSE)
+
