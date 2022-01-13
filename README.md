@@ -15,3 +15,5 @@ datatypes such as str(), int(), bool(), float(). have to  proberly define for co
 #str_methods
 how str methods/objects are used.
 
+#added Arithmetic operator.
+
