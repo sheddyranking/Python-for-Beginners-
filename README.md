@@ -16,4 +16,7 @@ datatypes such as str(), int(), bool(), float(). have to  proberly define for co
 how str methods/objects are used.
 
 #added Arithmetic operator.
+#operator precedence
+#operator comparison
+
 
