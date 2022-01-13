@@ -18,4 +18,5 @@ how str methods/objects are used.
 #added Arithmetic operator.
 #operator precedence
 #operator comparison.
+#logical operators
 
