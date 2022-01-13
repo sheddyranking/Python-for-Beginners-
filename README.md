@@ -7,3 +7,6 @@ age had to be converted to a str because you can't concatinate a str to an int.
 #Exercise2
 the computer read the two imputs as str, we had to convert them to int and float, 
 datatypes such as str(), int(), bool(), float(). have to  proberly define for concatination.
+
+#str_methods
+how str methods/objects are used.
