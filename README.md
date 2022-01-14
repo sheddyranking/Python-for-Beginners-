@@ -30,3 +30,4 @@ if the user types in 'k' the weight will be devide else any other word type it w
 #added while-loop, also in python int can be multiplied to str
 
 #added  List, showed index, and modification .
+#added list_methods
