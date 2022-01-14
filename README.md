@@ -26,3 +26,5 @@ how str methods/objects are used.
 the weight was converted to and int so i can be devided by the float.
 also converted was a float, so we added str so it can be concatinated and print out.
 if the user types in 'k' the weight will be devide else any other word type it will multiply the weight.
+
+#added while-loop, also in python int can be multiplied to str
