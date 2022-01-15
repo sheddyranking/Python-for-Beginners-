@@ -30,3 +30,4 @@ if the user types in 'k' the weight will be devide else any other word type it w
 #added list
 #added list methods.
  
+ #added for_loops
