@@ -12,5 +12,7 @@ print(numbers)
 
 print(1 in numbers) #return bool of TRUE/FALSE if condition meet.
 
+print(len(numbers))
+
 numbers.clear()
 print(numbers)
