@@ -32,3 +32,4 @@ if the user types in 'k' the weight will be devide else any other word type it w
  
  #added for_loops
  #added the range_function
+ #added tuples, the count() method return occurance of a value and index() method will returen the index of #that value in the Tuple
